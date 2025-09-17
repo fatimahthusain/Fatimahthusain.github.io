@@ -48,8 +48,9 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
   - Camera + water jet system for inspection & cleaning  
   - Custom PCB for motors, sensors, and power supply  
 - **Images:**  
-  ![Wall Climbing Robot](assets/wall_robot.jpg)  
-  ![PCB Schematic](assets/wall_robot_pcb.png)  
+  ![Wall Climbing Robot](assets/wcr.png)  
+  ![Functional Diagram](assets/circuit_layout.png)
+  ![Magnetic Wheels](assets/magnetic_wheel.png) 
 - **Video Demo:**  
   [Demo Video](https://drive.google.com/YOUR_DEMO_LINK)
 
