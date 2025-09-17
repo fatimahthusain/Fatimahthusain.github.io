@@ -4,7 +4,7 @@ title: "Fatimah Tahira Husain"
 ---
 <div style="display: flex; align-items: center; gap: 15px;">
 
-  <img src="assets/profile.jpg" alt="Fatimah Husain" 
+  <img src="assets/profile_pic.jpg" alt="Fatimah Husain" 
        style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
 
   <div>
@@ -57,7 +57,6 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
   - Custom PCB for motors, sensors, and power supply  
 - **Robot, Functional Diagram**  
   ![Wall Climbing Robot](assets/wcr.png)
-- **Functional Diagram:**
   ![Functional Diagram](assets/circuit_layout.png)
 
 
