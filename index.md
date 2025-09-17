@@ -50,11 +50,10 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 - **Wall Climbing Robot:**  
   ![Wall Climbing Robot](assets/wcr.png)
 - **Functional Diagram:**
-  ![Functional Diagram](assets/circuit_layout.png)
+- ![Functional Diagram](assets/circuit_layout.png)
 - **Magnetic Wheels:**
-  ![Magnetic Wheels](assets/magnetic_wheel.png) 
-- **Video Demo:**  
-  [Demo Video](https://drive.google.com/YOUR_DEMO_LINK)
+- ![Magnetic Wheels](assets/magnetic_wheel.png) 
+
 
 ---
 
