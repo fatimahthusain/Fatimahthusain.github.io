@@ -43,7 +43,7 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 ### 2. Wall Climbing Robot for Boiler Cleaning (Capstone)
 - **Role:** Group Leader  
 - **Features:**  
-  - PI-based speed control with Arduino  
+  - PI-based speed control with Arduino microcontroller 
   - Magnetic wheels for vertical climbing  
   - Camera + water jet system for inspection & cleaning  
   - Custom PCB for motors, sensors, and power supply  
