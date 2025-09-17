@@ -36,7 +36,7 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 - **Visuals:**  
   ![Manipulator Path Planning Diagram](assets/path_planning.png)  
 - **Video Demo:**  
-  [![Watch Demo](https://drive.google.com/file/d/1zH9iHW5_fzW9a1wRpQ6OHuyn47_TC0Dp/view?usp=sharing)
+  [Watch Demo](https://drive.google.com/file/d/1zH9iHW5_fzW9a1wRpQ6OHuyn47_TC0Dp/view?usp=sharing)
 
 ---
 
@@ -48,11 +48,11 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
   - Camera + water jet system for inspection & cleaning  
   - Custom PCB for motors, sensors, and power supply  
 - **Wall Climbing Robot:**  
-  ![Wall Climbing Robot](assets/wcr.png)
+  [Wall Climbing Robot](assets/wcr.png)
 - **Functional Diagram:**
-- ![Functional Diagram](assets/circuit_layout.png)
+  [Functional Diagram](assets/circuit_layout.png)
 - **Magnetic Wheels:**
-- ![Magnetic Wheels](assets/magnetic_wheel.png) 
+  [Magnetic Wheels](assets/magnetic_wheel.png) 
 
 
 ---
