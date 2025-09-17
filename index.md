@@ -12,7 +12,7 @@ title: "Fatimah Tahira Husain"
     <p><em>Mechatronics Engineer | Robotics | Control Systems | Autonomous Systems | Embedded Design</em></p>
   </div>
 
-
+</div>
 
 📍 Ontario, Canada  
 📧 [fatimah.husain2000@gmail.com](mailto:fatimah.husain2000@gmail.com)  
