@@ -47,12 +47,11 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
   - Magnetic wheels for vertical climbing  
   - Camera + water jet system for inspection & cleaning  
   - Custom PCB for motors, sensors, and power supply  
-- **Wall Climbing Robot:**  
-  [Wall Climbing Robot](assets/wcr.png)
+- **Robot, Functional Diagram**  
+  ![Wall Climbing Robot](assets/wcr.png)
 - **Functional Diagram:**
-  [Functional Diagram](assets/circuit_layout.png)
-- **Magnetic Wheels:**
-  [Magnetic Wheels](assets/magnetic_wheel.png) 
+  ![Functional Diagram](assets/circuit_layout.png)
+
 
 
 ---
