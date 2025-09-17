@@ -13,20 +13,20 @@ title: "Fatimah Tahira Husain"
 ---
 
 ## 🧑‍💻 About Me
-I am a Mechatronics Engineer with an M.Eng in Electrical & Computer Engineering from the University of Waterloo.  
-I specialize in **control systems, robotics, embedded systems, and PCB design**, and I’m passionate about building innovative automation solutions.  
+I am a Mechatronics Engineer with a Master in Electrical & Computer Engineering from the University of Waterloo.  
+I specialize in **control systems, robotics, embedded systems, circuit design and PCB design**, and I’m passionate about building innovative automation solutions.  
 
 **Skills:**  
-- Programming: Python, MATLAB/Simulink, C++, Embedded C, PLC (Ladder Logic)  
-- Tools: Proteus, Fusion 360, SolidWorks, RSLogix, LabVIEW, Arduino, Oscilloscope  
-- Soft Skills: Collaboration, Critical Thinking, Adaptability, Problem Solving  
+- Programming: Python, MATLAB, C++, Embedded C, PLC (Ladder Logic)  
+- Tools: Proteus, Fusion 360, MATLAB/Simulink, SolidWorks, Ansys, RSLogix, LabVIEW, Arduino, Workspace 5, CNC Simulator pro, IBM SPSS, DMM, Oscilloscope  
+- Soft Skills: Collaboration, Critical Thinking, Adaptability, Problem Solving, Quick Learner, Good Communication  
 
 ---
 
 ## 🚀 Projects
 
 ### 1. Path Planning of Mobile Manipulator
-- **Context:** Robotics & Control Systems Course  
+- **Context:** Robotics & Control Systems 
 - **Problem:** Safe pick-and-place navigation for DJI RoboMaster EP  
 - **Approach:**  
   - Designed **Control Lyapunov Functions** for trajectory tracking  
@@ -36,7 +36,7 @@ I specialize in **control systems, robotics, embedded systems, and PCB design**,
 - **Visuals:**  
   ![Manipulator Path Planning Diagram](assets/path_planning.png)  
 - **Video Demo:**  
-  [![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+  [![Watch Demo](https://drive.google.com/file/d/1zH9iHW5_fzW9a1wRpQ6OHuyn47_TC0Dp/view?usp=sharing)
 
 ---
 
