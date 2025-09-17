@@ -65,17 +65,12 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
   - Integrated **servo motors & IR sensors** for precision  
   - Automated fruit plucking mechanism with brushes  
 - **PCB and Circuit:**  
-  ![Fruit Plucking Robot](assets/fruit_robot.jpg)  
+  ![Fruit Plucking Robot](assets/pcb.png)
+  ![circuit design](assets/circuit.png)
+- **Video Demo:**  
+  [Demo Video](https://drive.google.com/file/d/1XrmNGETqU7WMStiqZ3FwSv08eiTvJW8I/view?usp=sharing)
 - **Outcome:** Winner in Indigenous Category, NERC 2022  
 
----
-
-### 4. BLDC Motor Controller for EV Conversion
-- **Internship at National Institute of Electronics**  
-- Designed **BLDC motor controller** for EV conversion  
-- Tools: Proteus 8, Arduino, oscilloscope testing  
-- **Circuit Diagram:**  
-  ![BLDC Controller](assets/bldc_controller.png)  
 
 ---
 
@@ -91,7 +86,8 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 - Conducted seminars and hands-on workshops  
 
 ### Automotive Lab Intern – National Institute of Electronics (2021)  
-- Designed BLDC motor controller for EV applications  
+- Designed BLDC motor controller for EV applications
+- Used Proteus 8 for circuit design and Arduino microcontroller for programming
 
 ---
 
@@ -103,7 +99,7 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 ---
 
 ## 📜 Certifications
-- PLCs in a Day – AB, Siemens, Schneider, Omron & Delta (Udemy)  
+- 5 PLCs in a Day – AB, Siemens, Schneider, Omron & Delta (Ongoing on Udemy)  
 - UR5 Collaborative Robot Workshop (NUST)  
 
 ---
