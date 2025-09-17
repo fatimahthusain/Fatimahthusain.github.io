@@ -36,7 +36,7 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 - **Visuals:**  
   ![Manipulator Path Planning Diagram](assets/path_planning.png)  
 - **Video Demo:**  
-  [Watch Demo](https://drive.google.com/file/d/1zH9iHW5_fzW9a1wRpQ6OHuyn47_TC0Dp/view?usp=sharing)
+  [Watch Demo](https://drive.google.com/file/d/1uaVOvlJsbHH2ZevpZ2-ubfx95tsRSUQ8/view?usp=sharing)
 
 ---
 
