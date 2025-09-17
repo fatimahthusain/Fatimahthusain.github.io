@@ -4,7 +4,7 @@ title: "Fatimah Tahira Husain"
 ---
 
 # 👋 Hi, I'm Fatimah Tahira Husain
-*Mechatronics Engineer | Robotics | Control Systems | Embedded Design*  
+*Mechatronics Engineer | Robotics | Control Systems | Autonomous Systems | Embedded Design*  
 
 📍 Ontario, Canada  
 📧 [fatimah.husain2000@gmail.com](mailto:fatimah.husain2000@gmail.com)  
@@ -47,9 +47,11 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
   - Magnetic wheels for vertical climbing  
   - Camera + water jet system for inspection & cleaning  
   - Custom PCB for motors, sensors, and power supply  
-- **Images:**  
-  ![Wall Climbing Robot](assets/wcr.png)  
+- **Wall Climbing Robot:**  
+  ![Wall Climbing Robot](assets/wcr.png)
+- **Functional Diagram:**
   ![Functional Diagram](assets/circuit_layout.png)
+- **Magnetic Wheels:**
   ![Magnetic Wheels](assets/magnetic_wheel.png) 
 - **Video Demo:**  
   [Demo Video](https://drive.google.com/YOUR_DEMO_LINK)
@@ -59,10 +61,10 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 ### 3. Indigenous Fruit Plucking Robot (NERC 2022 – Winner 🏆)
 - **Context:** National Engineering Robotics Contest  
 - **Approach:**  
-  - Designed autonomous robot with **line-following PCB**  
+  - Designed an autonomous line-following robot 
   - Integrated **servo motors & IR sensors** for precision  
   - Automated fruit plucking mechanism with brushes  
-- **Visuals:**  
+- **PCB and Circuit:**  
   ![Fruit Plucking Robot](assets/fruit_robot.jpg)  
 - **Outcome:** Winner in Indigenous Category, NERC 2022  
 
