@@ -14,6 +14,7 @@ title: "Fatimah Tahira Husain"
 
 </div>
 
+
 📍 Ontario, Canada  
 📧 [fatimah.husain2000@gmail.com](mailto:fatimah.husain2000@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/fatimah-t-husain) | [Resume (PDF)](assets/resume_fatimah.pdf)  
