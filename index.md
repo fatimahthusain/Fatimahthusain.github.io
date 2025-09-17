@@ -38,9 +38,9 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 - **Context:** Robotics & Control Systems 
 - **Problem:** Safe pick-and-place navigation for DJI RoboMaster EP  
 - **Approach:**  
-  - Designed **Control Lyapunov Functions** for trajectory tracking  
+  - Designed **Control Lyapunov Functions** using python for trajectory tracking  
   - Applied **Control Barrier Functions** to avoid obstacles  
-  - Synthesized input with **Quadratic Programming**  
+  - Synthesized input with **Quadratic Programming** for an optimized control system.
 - **Results:** Achieved obstacle-avoiding, safe navigation  
 - **Visuals:**  
   ![Manipulator Path Planning Diagram](assets/path_planning.png)  
@@ -53,9 +53,10 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 - **Role:** Group Leader  
 - **Features:**  
   - PI-based speed control with Arduino microcontroller 
-  - Magnetic wheels for vertical climbing  
+  - Designed Magnetic wheels on SolidWorks for vertical climbing and performed magnetic flux analysis
   - Camera + water jet system for inspection & cleaning  
-  - Custom PCB for motors, sensors, and power supply  
+  - Custom PCB for motors, sensors, and power supply
+  - Used SPI communication between microcontrollers for precise cleaning 
 - **Robot, Functional Diagram**  
   ![Wall Climbing Robot](assets/wcr.png)
   ![Functional Diagram](assets/circuit_layout.png)
@@ -68,8 +69,9 @@ I specialize in **control systems, robotics, embedded systems, circuit design an
 - **Context:** National Engineering Robotics Contest  
 - **Approach:**  
   - Designed an autonomous line-following robot 
-  - Integrated **servo motors & IR sensors** for precision  
-  - Automated fruit plucking mechanism with brushes  
+  - Integrated **DC motors & IR sensors** for precision
+  - Designed H-bridge using MOSFETS for the DC motors 
+  - Automated fruit plucking mechanism with brushes controlled by servo motors 
 - **PCB and Circuit:**  
   ![Fruit Plucking Robot](assets/pcb.png)
   ![circuit design](assets/circuit.png)
