@@ -2,9 +2,17 @@
 layout: default
 title: "Fatimah Tahira Husain"
 ---
+<div style="display: flex; align-items: center; gap: 15px;">
 
-# 👋 Hi, I'm Fatimah Tahira Husain
-*Mechatronics Engineer | Robotics | Control Systems | Autonomous Systems | Embedded Design*  
+  <img src="assets/profile.jpg" alt="Fatimah Husain" 
+       style="width:120px; height:120px; border-radius:50%; object-fit:cover;">
+
+  <div>
+    <h1>Fatimah Tahira Husain</h1>
+    <p><em>Mechatronics Engineer | Robotics | Control Systems | Autonomous Systems | Embedded Design</em></p>
+  </div>
+
+
 
 📍 Ontario, Canada  
 📧 [fatimah.husain2000@gmail.com](mailto:fatimah.husain2000@gmail.com)  
